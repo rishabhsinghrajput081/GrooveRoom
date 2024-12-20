@@ -28,7 +28,6 @@ GrooveRoom Music and Chat is a dynamic music platform that offers real-time chat
 
 GrooveRoom Music and Chat leverages a robust technology stack to deliver real-time music updates and a seamless chat experience. The backend, powered by Node.js and Express.js, manages scalable interactions and ensures data integrity, while the frontend, built with React.js, provides users with a responsive and interactive interface. Socket.IO enables real-time features, and Clerk offers secure authentication, including support for Google login.
 
-![GrooveRoom Screenshot](path-to-your-image)
 
 ## Contact
 
