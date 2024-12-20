@@ -1,3 +1,5 @@
+# Check out the live site here [GrooveRoom](https://grooveroom.onrender.com/).
+
 # GrooveRoom Music and Chat
 
 GrooveRoom Music and Chat is a dynamic music platform that offers real-time chat, live music updates, and user status tracking. This full-stack application combines modern web technologies to provide an engaging and seamless user experience.
